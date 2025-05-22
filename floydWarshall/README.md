@@ -1,5 +1,16 @@
-Na pasta Bat2, encontram-se:
+# Bat2
 
--A pasta entrada, contendo o conjunto de 20 entradas de teste.
--A pasta gabarito, com as respostas esperadas para cada entrada.
--O arquivo executável Bat2.sh responsável por rodar os testes automaticamente.
+Este projeto contém um conjunto de testes automatizados localizado na pasta `Bat2`.
+
+## Estrutura da Pasta `Bat2`
+
+- `entrada/`: Contém 20 arquivos de entrada utilizados para os testes.
+- `gabarito/`: Contém as respostas esperadas correspondentes a cada entrada.
+- `executar.sh`: Script executável responsável por rodar os testes automaticamente.
+
+## Como Executar
+
+1. Acesse a pasta `Bat2`:
+
+   ```bash
+   cd Bat2
