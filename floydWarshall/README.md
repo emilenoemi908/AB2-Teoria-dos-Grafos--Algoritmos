@@ -7,6 +7,7 @@ Este projeto contém um conjunto de testes automatizados localizado na pasta `Ba
 - `entrada/`: Contém 20 arquivos de entrada utilizados para os testes.
 - `gabarito/`: Contém as respostas esperadas correspondentes a cada entrada.
 - `executar.sh`: Script executável responsável por rodar os testes automaticamente.
+- `floyd.bin`: Arquivo binário do algoritmo a ser testado.
 
 ## Como Executar
 
@@ -14,3 +15,4 @@ Este projeto contém um conjunto de testes automatizados localizado na pasta `Ba
 
    ```bash
    cd Bat2
+   ./Bat2.sh
