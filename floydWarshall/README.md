@@ -1,6 +1,4 @@
-# Bat2
-
-Este projeto contém um conjunto de testes automatizados localizado na pasta `Bat2`.
+Este algoritmo contém um conjunto de testes automatizados localizado na pasta `Bat2`.
 
 ## Estrutura da Pasta `Bat2`
 
